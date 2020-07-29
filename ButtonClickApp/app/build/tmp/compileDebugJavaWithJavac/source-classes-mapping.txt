@@ -1,0 +1,2 @@
+com/corridor9design/buttonclickapp/BuildConfig.java
+ com.corridor9design.buttonclickapp.BuildConfig

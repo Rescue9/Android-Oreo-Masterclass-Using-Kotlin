@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\c2a7304ebe6278498b71606fda7095cd\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\ef8917db7dcb6e37578591f4a499f4c8\jetified-core-ktx-1.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\4d0a587c99c75b4330695a935ae139c8\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\b7885ac6043c2dfd1fdd402f05ad594f\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\df97df219860780b7192f73c9a175c60\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\7f7fdcfbc30c4c4041a2f1e764338cf2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\b881f8c5532da615c609f676e8b416fb\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\97d2d2f818b3fe1e89c0f712d3c962de\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\edd5c2008cddfa0dbfc3a140010958a3\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\e872c4736276bedbb41b6afbccf5d725\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\f22f1f947ac4dcac58515f1b79f9f676\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\48ce8b4f40363936d508cc41441824e5\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\288695ec008250a1dcb016ef84697830\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\fc0cb88c90adc7590848c1ee71421e16\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\c54221863ae33a06bcb1de46c56e0a48\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\50b23ac1bb1e510d1963e77e4dbc94d1\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\b79d62cdca3710c89d4d372f3cf2d07d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\50c0415cd81546deb89f816098fd2ab5\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\cf8666ee20ede7c6fef582c22984dc72\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\d476178f2c8c93a8c696d9695d9f0a27\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\2358002302016b045bdeb738fb63eec0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\2ae25b1f698dea489b8a78f51645334d\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:3:11-55
+		INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\4d0a587c99c75b4330695a935ae139c8\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\4d0a587c99c75b4330695a935ae139c8\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\fc0cb88c90adc7590848c1ee71421e16\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\fc0cb88c90adc7590848c1ee71421e16\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\c54221863ae33a06bcb1de46c56e0a48\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\c54221863ae33a06bcb1de46c56e0a48\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\fc0cb88c90adc7590848c1ee71421e16\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.corridor9design.buttonclickapp.MainActivity
+ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\c2a7304ebe6278498b71606fda7095cd\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\c2a7304ebe6278498b71606fda7095cd\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\ef8917db7dcb6e37578591f4a499f4c8\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\ef8917db7dcb6e37578591f4a499f4c8\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\4d0a587c99c75b4330695a935ae139c8\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\4d0a587c99c75b4330695a935ae139c8\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\b7885ac6043c2dfd1fdd402f05ad594f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\b7885ac6043c2dfd1fdd402f05ad594f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\df97df219860780b7192f73c9a175c60\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\df97df219860780b7192f73c9a175c60\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\7f7fdcfbc30c4c4041a2f1e764338cf2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\7f7fdcfbc30c4c4041a2f1e764338cf2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\b881f8c5532da615c609f676e8b416fb\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\b881f8c5532da615c609f676e8b416fb\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\97d2d2f818b3fe1e89c0f712d3c962de\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\97d2d2f818b3fe1e89c0f712d3c962de\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\edd5c2008cddfa0dbfc3a140010958a3\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\edd5c2008cddfa0dbfc3a140010958a3\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\e872c4736276bedbb41b6afbccf5d725\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\e872c4736276bedbb41b6afbccf5d725\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\f22f1f947ac4dcac58515f1b79f9f676\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\f22f1f947ac4dcac58515f1b79f9f676\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\48ce8b4f40363936d508cc41441824e5\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\48ce8b4f40363936d508cc41441824e5\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\288695ec008250a1dcb016ef84697830\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\288695ec008250a1dcb016ef84697830\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\fc0cb88c90adc7590848c1ee71421e16\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\fc0cb88c90adc7590848c1ee71421e16\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\c54221863ae33a06bcb1de46c56e0a48\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\c54221863ae33a06bcb1de46c56e0a48\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\50b23ac1bb1e510d1963e77e4dbc94d1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\50b23ac1bb1e510d1963e77e4dbc94d1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\b79d62cdca3710c89d4d372f3cf2d07d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\b79d62cdca3710c89d4d372f3cf2d07d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\50c0415cd81546deb89f816098fd2ab5\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\50c0415cd81546deb89f816098fd2ab5\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\cf8666ee20ede7c6fef582c22984dc72\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\cf8666ee20ede7c6fef582c22984dc72\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\d476178f2c8c93a8c696d9695d9f0a27\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\d476178f2c8c93a8c696d9695d9f0a27\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\2358002302016b045bdeb738fb63eec0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\2358002302016b045bdeb738fb63eec0\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\2ae25b1f698dea489b8a78f51645334d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Rescue\.gradle\caches\transforms-2\files-2.1\2ae25b1f698dea489b8a78f51645334d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rescue\IntelliJIDEAProjects\ButtonClickApp\app\src\main\AndroidManifest.xml

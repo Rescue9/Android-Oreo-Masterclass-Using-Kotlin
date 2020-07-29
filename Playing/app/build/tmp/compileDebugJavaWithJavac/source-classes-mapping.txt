@@ -1,0 +1,2 @@
+com/corridor9design/playing/BuildConfig.java
+ com.corridor9design.playing.BuildConfig

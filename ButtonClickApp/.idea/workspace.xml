@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="main" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de01335a-c492-4f23-9611-97ec64e5c120" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="99121FFBA004AF" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1eeNntyHY7XDY2XPBjsTSksDQdR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de01335a-c492-4f23-9611-97ec64e5c120" name="Default Changelist" comment="" />
+      <created>1594678268868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594678268868</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1594769008800">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="475" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1594769008800" />
+    <state x="93" y="93" width="1181" height="685" key="AVDManager" timestamp="1594759277193">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="93" y="93" width="1181" height="685" key="AVDManager/0.0.1368.872@0.0.1368.872" timestamp="1594759277193" />
+    <state x="487" y="203" key="FileChooserDialogImpl" timestamp="1594680889649">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="487" y="203" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1594680889649" />
+    <state width="1326" height="185" key="GridCell.Tab.0.bottom" timestamp="1594771897971">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="185" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1594771897971" />
+    <state width="1326" height="185" key="GridCell.Tab.0.center" timestamp="1594771897971">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="185" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1594771897971" />
+    <state width="1326" height="185" key="GridCell.Tab.0.left" timestamp="1594771897970">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="185" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1594771897970" />
+    <state width="1326" height="185" key="GridCell.Tab.0.right" timestamp="1594771897971">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="185" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1594771897971" />
+    <state x="262" y="179" width="1106" height="513" key="IDE.errors.dialog" timestamp="1594777332544">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="262" y="179" width="1106" height="513" key="IDE.errors.dialog/0.0.1368.872@0.0.1368.872" timestamp="1594777332544" />
+    <state x="186" y="22" key="SettingsEditor" timestamp="1594780658633">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="22" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1594780658633" />
+    <state x="350" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1594736187227">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="350" y="187" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1594736187227" />
+  </component>
+</project>
