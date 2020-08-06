@@ -71,6 +71,13 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
+        buttonClr.setOnClickListener {view ->
+            newNumber.setText("")
+            result.setText("")
+            operation.text = ""
+            operand1 = null
+        }
+
     }
 
     private fun performOperation(value: Double, operation: String) {
